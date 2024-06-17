@@ -1,0 +1,41 @@
+SCHOOLNAME	ATTDATE	MEMBERSHIP	ABSENCES
+IDEA Bassett Academy	4/15/2024	477	65
+IDEA Bassett Academy	4/16/2024	476	40
+IDEA Bassett Academy	4/17/2024	476	32
+IDEA Bassett Academy	4/18/2024	476	38
+IDEA Bassett Academy	4/19/2024	476	64
+IDEA Bassett College Preparatory	4/15/2024	247	28
+IDEA Bassett College Preparatory	4/16/2024	247	27
+IDEA Bassett College Preparatory	4/17/2024	247	18
+IDEA Bassett College Preparatory	4/18/2024	247	22
+IDEA Bassett College Preparatory	4/19/2024	247	45
+IDEA Hope Academy	4/15/2024	479	73
+IDEA Hope Academy	4/16/2024	479	59
+IDEA Hope Academy	4/17/2024	479	42
+IDEA Hope Academy	4/18/2024	479	42
+IDEA Hope Academy	4/19/2024	479	55
+IDEA Hope College Preparatory	4/15/2024	254	32
+IDEA Hope College Preparatory	4/16/2024	254	31
+IDEA Hope College Preparatory	4/17/2024	254	20
+IDEA Hope College Preparatory	4/18/2024	254	33
+IDEA Hope College Preparatory	4/19/2024	253	31
+IDEA River Bluff Academy	4/15/2024	471	53
+IDEA River Bluff Academy	4/16/2024	471	46
+IDEA River Bluff Academy	4/17/2024	471	42
+IDEA River Bluff Academy	4/18/2024	471	63
+IDEA River Bluff Academy	4/19/2024	471	75
+IDEA River Bluff College Preparatory	4/15/2024	230	35
+IDEA River Bluff College Preparatory	4/16/2024	230	24
+IDEA River Bluff College Preparatory	4/17/2024	230	31
+IDEA River Bluff College Preparatory	4/18/2024	230	32
+IDEA River Bluff College Preparatory	4/19/2024	230	39
+IDEA Victory Academy	4/15/2024	589	79
+IDEA Victory Academy	4/16/2024	589	71
+IDEA Victory Academy	4/17/2024	589	52
+IDEA Victory Academy	4/18/2024	590	54
+IDEA Victory Academy	4/19/2024	592	110
+IDEA Victory College Preparatory	4/15/2024	379	57
+IDEA Victory College Preparatory	4/16/2024	378	37
+IDEA Victory College Preparatory	4/17/2024	380	30
+IDEA Victory College Preparatory	4/18/2024	380	34
+IDEA Victory College Preparatory	4/19/2024	380	72

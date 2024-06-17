@@ -1,0 +1,21 @@
+SCHOOLNAME	ATTDATE	MEMBERSHIP	ABSENCES
+IDEA Price Hill Academy	15-Apr-24	352	80
+IDEA Price Hill Academy	16-Apr-24	353	57
+IDEA Price Hill Academy	17-Apr-24	353	52
+IDEA Price Hill Academy	18-Apr-24	353	54
+IDEA Price Hill Academy	19-Apr-24	353	93
+IDEA Price Hill College Preparatory	15-Apr-24	143	29
+IDEA Price Hill College Preparatory	16-Apr-24	145	29
+IDEA Price Hill College Preparatory	17-Apr-24	143	16
+IDEA Price Hill College Preparatory	18-Apr-24	143	14
+IDEA Price Hill College Preparatory	19-Apr-24	144	31
+IDEA Valley View Academy	15-Apr-24	324	24
+IDEA Valley View Academy	16-Apr-24	324	28
+IDEA Valley View Academy	17-Apr-24	324	16
+IDEA Valley View Academy	18-Apr-24	324	14
+IDEA Valley View Academy	19-Apr-24	324	35
+IDEA Valley View College Preparatory	15-Apr-24	70	8
+IDEA Valley View College Preparatory	16-Apr-24	70	6
+IDEA Valley View College Preparatory	17-Apr-24	70	3
+IDEA Valley View College Preparatory	18-Apr-24	70	5
+IDEA Valley View College Preparatory	19-Apr-24	70	20

@@ -1,0 +1,616 @@
+SCHOOLNAME	ATTDATE	MEMBERSHIP	ABSENCES
+IDEA Achieve Academy	15-Apr-24	615	49
+IDEA Achieve Academy	16-Apr-24	615	43
+IDEA Achieve Academy	17-Apr-24	615	38
+IDEA Achieve Academy	18-Apr-24	614	34
+IDEA Achieve Academy	19-Apr-24	614	59
+IDEA Achieve College Preparatory	15-Apr-24	442	21
+IDEA Achieve College Preparatory	16-Apr-24	442	14
+IDEA Achieve College Preparatory	17-Apr-24	442	20
+IDEA Achieve College Preparatory	18-Apr-24	441	24
+IDEA Achieve College Preparatory	19-Apr-24	441	36
+IDEA Alamo Academy	15-Apr-24	696	37
+IDEA Alamo Academy	16-Apr-24	695	27
+IDEA Alamo Academy	17-Apr-24	694	32
+IDEA Alamo Academy	18-Apr-24	694	24
+IDEA Alamo Academy	19-Apr-24	694	52
+IDEA Alamo College Preparatory	15-Apr-24	734	37
+IDEA Alamo College Preparatory	16-Apr-24	734	25
+IDEA Alamo College Preparatory	17-Apr-24	734	32
+IDEA Alamo College Preparatory	18-Apr-24	734	15
+IDEA Alamo College Preparatory	19-Apr-24	734	51
+IDEA Ambrose and Freda Robinson Academy	15-Apr-24	413	36
+IDEA Ambrose and Freda Robinson Academy	16-Apr-24	413	27
+IDEA Ambrose and Freda Robinson Academy	17-Apr-24	412	24
+IDEA Ambrose and Freda Robinson Academy	18-Apr-24	412	23
+IDEA Ambrose and Freda Robinson Academy	19-Apr-24	412	22
+IDEA Ambrose and Freda Robinson College Preparatory	15-Apr-24	118	6
+IDEA Ambrose and Freda Robinson College Preparatory	16-Apr-24	119	7
+IDEA Ambrose and Freda Robinson College Preparatory	17-Apr-24	119	3
+IDEA Ambrose and Freda Robinson College Preparatory	18-Apr-24	119	6
+IDEA Ambrose and Freda Robinson College Preparatory	19-Apr-24	119	7
+IDEA Bluff Springs Academy	15-Apr-24	584	59
+IDEA Bluff Springs Academy	16-Apr-24	584	27
+IDEA Bluff Springs Academy	17-Apr-24	584	28
+IDEA Bluff Springs Academy	18-Apr-24	584	32
+IDEA Bluff Springs Academy	19-Apr-24	584	53
+IDEA Bluff Springs College Preparatory	15-Apr-24	694	84
+IDEA Bluff Springs College Preparatory	16-Apr-24	694	62
+IDEA Bluff Springs College Preparatory	17-Apr-24	694	42
+IDEA Bluff Springs College Preparatory	18-Apr-24	694	53
+IDEA Bluff Springs College Preparatory	19-Apr-24	694	72
+IDEA Brackenridge Academy	15-Apr-24	640	44
+IDEA Brackenridge Academy	16-Apr-24	640	20
+IDEA Brackenridge Academy	17-Apr-24	638	21
+IDEA Brackenridge Academy	18-Apr-24	638	24
+IDEA Brackenridge Academy	19-Apr-24	638	62
+IDEA Brackenridge College Preparatory	15-Apr-24	645	76
+IDEA Brackenridge College Preparatory	16-Apr-24	645	43
+IDEA Brackenridge College Preparatory	17-Apr-24	646	32
+IDEA Brackenridge College Preparatory	18-Apr-24	646	45
+IDEA Brackenridge College Preparatory	19-Apr-24	646	63
+IDEA Brownsville Academy	15-Apr-24	684	41
+IDEA Brownsville Academy	16-Apr-24	684	14
+IDEA Brownsville Academy	17-Apr-24	684	28
+IDEA Brownsville Academy	18-Apr-24	684	21
+IDEA Brownsville Academy	19-Apr-24	684	41
+IDEA Brownsville College Preparatory	15-Apr-24	694	28
+IDEA Brownsville College Preparatory	16-Apr-24	694	12
+IDEA Brownsville College Preparatory	17-Apr-24	694	37
+IDEA Brownsville College Preparatory	18-Apr-24	694	37
+IDEA Brownsville College Preparatory	19-Apr-24	694	34
+IDEA Burke Academy	15-Apr-24	710	49
+IDEA Burke Academy	16-Apr-24	710	27
+IDEA Burke Academy	17-Apr-24	710	37
+IDEA Burke Academy	18-Apr-24	710	40
+IDEA Burke Academy	19-Apr-24	710	55
+IDEA Burke College Preparatory	15-Apr-24	497	29
+IDEA Burke College Preparatory	16-Apr-24	497	15
+IDEA Burke College Preparatory	17-Apr-24	497	29
+IDEA Burke College Preparatory	18-Apr-24	496	26
+IDEA Burke College Preparatory	19-Apr-24	496	36
+IDEA Carver Academy	15-Apr-24	509	30
+IDEA Carver Academy	16-Apr-24	509	19
+IDEA Carver Academy	17-Apr-24	509	30
+IDEA Carver Academy	18-Apr-24	509	22
+IDEA Carver Academy	19-Apr-24	508	33
+IDEA Carver College Preparatory	15-Apr-24	629	33
+IDEA Carver College Preparatory	16-Apr-24	629	28
+IDEA Carver College Preparatory	17-Apr-24	629	31
+IDEA Carver College Preparatory	18-Apr-24	629	36
+IDEA Carver College Preparatory	19-Apr-24	628	50
+IDEA Converse Academy	15-Apr-24	628	31
+IDEA Converse Academy	16-Apr-24	627	25
+IDEA Converse Academy	17-Apr-24	627	26
+IDEA Converse Academy	18-Apr-24	627	23
+IDEA Converse Academy	19-Apr-24	627	39
+IDEA Converse College Preparatory	15-Apr-24	365	26
+IDEA Converse College Preparatory	16-Apr-24	365	10
+IDEA Converse College Preparatory	17-Apr-24	364	34
+IDEA Converse College Preparatory	18-Apr-24	364	27
+IDEA Converse College Preparatory	19-Apr-24	364	39
+IDEA Donna Academy	15-Apr-24	754	61
+IDEA Donna Academy	16-Apr-24	754	19
+IDEA Donna Academy	17-Apr-24	754	36
+IDEA Donna Academy	18-Apr-24	754	30
+IDEA Donna Academy	19-Apr-24	754	37
+IDEA Donna College Preparatory	15-Apr-24	750	33
+IDEA Donna College Preparatory	16-Apr-24	751	29
+IDEA Donna College Preparatory	17-Apr-24	751	35
+IDEA Donna College Preparatory	18-Apr-24	751	48
+IDEA Donna College Preparatory	19-Apr-24	751	53
+IDEA Eastside Academy	15-Apr-24	408	31
+IDEA Eastside Academy	16-Apr-24	408	21
+IDEA Eastside Academy	17-Apr-24	408	30
+IDEA Eastside Academy	18-Apr-24	410	28
+IDEA Eastside Academy	19-Apr-24	410	50
+IDEA Eastside College Preparatory	15-Apr-24	527	43
+IDEA Eastside College Preparatory	16-Apr-24	530	46
+IDEA Eastside College Preparatory	17-Apr-24	529	48
+IDEA Eastside College Preparatory	18-Apr-24	531	35
+IDEA Eastside College Preparatory	19-Apr-24	531	84
+IDEA Edgecliff Academy	15-Apr-24	707	30
+IDEA Edgecliff Academy	16-Apr-24	707	26
+IDEA Edgecliff Academy	17-Apr-24	707	27
+IDEA Edgecliff Academy	18-Apr-24	707	35
+IDEA Edgecliff Academy	19-Apr-24	707	57
+IDEA Edgecliff College Preparatory	15-Apr-24	458	22
+IDEA Edgecliff College Preparatory	16-Apr-24	458	12
+IDEA Edgecliff College Preparatory	17-Apr-24	458	14
+IDEA Edgecliff College Preparatory	18-Apr-24	458	12
+IDEA Edgecliff College Preparatory	19-Apr-24	458	20
+IDEA Edgemere Academy	15-Apr-24	840	45
+IDEA Edgemere Academy	16-Apr-24	840	26
+IDEA Edgemere Academy	17-Apr-24	840	31
+IDEA Edgemere Academy	18-Apr-24	840	34
+IDEA Edgemere Academy	19-Apr-24	840	50
+IDEA Edgemere College Preparatory	15-Apr-24	568	35
+IDEA Edgemere College Preparatory	16-Apr-24	567	16
+IDEA Edgemere College Preparatory	17-Apr-24	566	30
+IDEA Edgemere College Preparatory	18-Apr-24	566	22
+IDEA Edgemere College Preparatory	19-Apr-24	566	38
+IDEA Edinburg Academy	15-Apr-24	715	37
+IDEA Edinburg Academy	16-Apr-24	715	20
+IDEA Edinburg Academy	17-Apr-24	715	28
+IDEA Edinburg Academy	18-Apr-24	715	46
+IDEA Edinburg Academy	19-Apr-24	715	34
+IDEA Edinburg College Preparatory	15-Apr-24	754	39
+IDEA Edinburg College Preparatory	16-Apr-24	754	30
+IDEA Edinburg College Preparatory	17-Apr-24	754	7
+IDEA Edinburg College Preparatory	18-Apr-24	754	68
+IDEA Edinburg College Preparatory	19-Apr-24	754	79
+IDEA Elsa Academy	15-Apr-24	715	22
+IDEA Elsa Academy	16-Apr-24	715	17
+IDEA Elsa Academy	17-Apr-24	715	34
+IDEA Elsa Academy	18-Apr-24	715	24
+IDEA Elsa Academy	19-Apr-24	715	30
+IDEA Elsa College Preparatory	15-Apr-24	631	48
+IDEA Elsa College Preparatory	16-Apr-24	631	43
+IDEA Elsa College Preparatory	17-Apr-24	631	14
+IDEA Elsa College Preparatory	18-Apr-24	631	46
+IDEA Elsa College Preparatory	19-Apr-24	631	48
+IDEA Ewing Halsell Academy	15-Apr-24	694	47
+IDEA Ewing Halsell Academy	16-Apr-24	694	34
+IDEA Ewing Halsell Academy	17-Apr-24	694	36
+IDEA Ewing Halsell Academy	18-Apr-24	695	30
+IDEA Ewing Halsell Academy	19-Apr-24	695	45
+IDEA Ewing Halsell College Preparatory	15-Apr-24	564	38
+IDEA Ewing Halsell College Preparatory	16-Apr-24	564	25
+IDEA Ewing Halsell College Preparatory	17-Apr-24	564	16
+IDEA Ewing Halsell College Preparatory	18-Apr-24	564	33
+IDEA Ewing Halsell College Preparatory	19-Apr-24	564	54
+IDEA Frontier Academy	15-Apr-24	677	15
+IDEA Frontier Academy	16-Apr-24	677	5
+IDEA Frontier Academy	17-Apr-24	677	6
+IDEA Frontier Academy	18-Apr-24	677	10
+IDEA Frontier Academy	19-Apr-24	677	11
+IDEA Frontier College Preparatory	15-Apr-24	742	23
+IDEA Frontier College Preparatory	16-Apr-24	742	6
+IDEA Frontier College Preparatory	17-Apr-24	742	21
+IDEA Frontier College Preparatory	18-Apr-24	742	31
+IDEA Frontier College Preparatory	19-Apr-24	742	37
+IDEA Hardy Academy	15-Apr-24	715	40
+IDEA Hardy Academy	16-Apr-24	715	26
+IDEA Hardy Academy	17-Apr-24	715	37
+IDEA Hardy Academy	18-Apr-24	714	34
+IDEA Hardy Academy	19-Apr-24	714	54
+IDEA Hardy College Preparatory	15-Apr-24	508	31
+IDEA Hardy College Preparatory	16-Apr-24	508	19
+IDEA Hardy College Preparatory	17-Apr-24	508	10
+IDEA Hardy College Preparatory	18-Apr-24	507	30
+IDEA Hardy College Preparatory	19-Apr-24	507	47
+IDEA Harlingen Academy	15-Apr-24	624	37
+IDEA Harlingen Academy	16-Apr-24	624	14
+IDEA Harlingen Academy	17-Apr-24	624	40
+IDEA Harlingen Academy	18-Apr-24	624	33
+IDEA Harlingen Academy	19-Apr-24	624	48
+IDEA Harlingen College Preparatory	15-Apr-24	337	25
+IDEA Harlingen College Preparatory	16-Apr-24	337	6
+IDEA Harlingen College Preparatory	17-Apr-24	337	23
+IDEA Harlingen College Preparatory	18-Apr-24	337	29
+IDEA Harlingen College Preparatory	19-Apr-24	337	37
+IDEA Health Professions Academy	15-Apr-24	265	32
+IDEA Health Professions Academy	16-Apr-24	265	8
+IDEA Health Professions Academy	17-Apr-24	265	15
+IDEA Health Professions Academy	18-Apr-24	265	15
+IDEA Health Professions Academy	19-Apr-24	265	24
+IDEA Health Professions College Preparatory	15-Apr-24	293	23
+IDEA Health Professions College Preparatory	16-Apr-24	293	19
+IDEA Health Professions College Preparatory	17-Apr-24	293	13
+IDEA Health Professions College Preparatory	18-Apr-24	293	7
+IDEA Health Professions College Preparatory	19-Apr-24	293	21
+IDEA Hidden Meadow Academy	15-Apr-24	540	36
+IDEA Hidden Meadow Academy	16-Apr-24	540	14
+IDEA Hidden Meadow Academy	17-Apr-24	540	18
+IDEA Hidden Meadow Academy	18-Apr-24	540	28
+IDEA Hidden Meadow Academy	19-Apr-24	540	43
+IDEA Hidden Meadow College Preparatory	15-Apr-24	269	17
+IDEA Hidden Meadow College Preparatory	16-Apr-24	269	15
+IDEA Hidden Meadow College Preparatory	17-Apr-24	268	19
+IDEA Hidden Meadow College Preparatory	18-Apr-24	268	18
+IDEA Hidden Meadow College Preparatory	19-Apr-24	268	28
+IDEA Horizon Vista Academy	15-Apr-24	762	40
+IDEA Horizon Vista Academy	16-Apr-24	762	35
+IDEA Horizon Vista Academy	17-Apr-24	762	22
+IDEA Horizon Vista Academy	18-Apr-24	762	39
+IDEA Horizon Vista Academy	19-Apr-24	762	61
+IDEA Horizon Vista College Preparatory	15-Apr-24	330	14
+IDEA Horizon Vista College Preparatory	16-Apr-24	330	12
+IDEA Horizon Vista College Preparatory	17-Apr-24	330	18
+IDEA Horizon Vista College Preparatory	18-Apr-24	330	15
+IDEA Horizon Vista College Preparatory	19-Apr-24	330	25
+IDEA Ingram Hills Academy	15-Apr-24	677	51
+IDEA Ingram Hills Academy	16-Apr-24	677	22
+IDEA Ingram Hills Academy	17-Apr-24	677	38
+IDEA Ingram Hills Academy	18-Apr-24	676	46
+IDEA Ingram Hills Academy	19-Apr-24	676	64
+IDEA Ingram Hills College Preparatory	15-Apr-24	501	40
+IDEA Ingram Hills College Preparatory	16-Apr-24	501	18
+IDEA Ingram Hills College Preparatory	17-Apr-24	501	42
+IDEA Ingram Hills College Preparatory	18-Apr-24	501	47
+IDEA Ingram Hills College Preparatory	19-Apr-24	502	64
+IDEA Judson Academy	15-Apr-24	726	33
+IDEA Judson Academy	16-Apr-24	726	20
+IDEA Judson Academy	17-Apr-24	726	20
+IDEA Judson Academy	18-Apr-24	725	28
+IDEA Judson Academy	19-Apr-24	723	21
+IDEA Judson College Preparatory	15-Apr-24	728	33
+IDEA Judson College Preparatory	16-Apr-24	728	13
+IDEA Judson College Preparatory	17-Apr-24	728	38
+IDEA Judson College Preparatory	18-Apr-24	728	28
+IDEA Judson College Preparatory	19-Apr-24	728	30
+IDEA Kyle Academy	15-Apr-24	644	40
+IDEA Kyle Academy	16-Apr-24	641	23
+IDEA Kyle Academy	17-Apr-24	641	20
+IDEA Kyle Academy	18-Apr-24	640	30
+IDEA Kyle Academy	19-Apr-24	640	42
+IDEA Kyle College Preparatory	15-Apr-24	602	46
+IDEA Kyle College Preparatory	16-Apr-24	601	26
+IDEA Kyle College Preparatory	17-Apr-24	601	33
+IDEA Kyle College Preparatory	18-Apr-24	598	28
+IDEA Kyle College Preparatory	19-Apr-24	598	31
+IDEA La Joya Academy	15-Apr-24	568	37
+IDEA La Joya Academy	16-Apr-24	568	33
+IDEA La Joya Academy	17-Apr-24	568	26
+IDEA La Joya Academy	18-Apr-24	569	38
+IDEA La Joya Academy	19-Apr-24	569	57
+IDEA La Joya College Preparatory	15-Apr-24	252	22
+IDEA La Joya College Preparatory	16-Apr-24	252	4
+IDEA La Joya College Preparatory	17-Apr-24	252	20
+IDEA La Joya College Preparatory	18-Apr-24	252	23
+IDEA La Joya College Preparatory	19-Apr-24	252	35
+IDEA Lake Houston Academy	15-Apr-24	680	35
+IDEA Lake Houston Academy	16-Apr-24	680	21
+IDEA Lake Houston Academy	17-Apr-24	680	32
+IDEA Lake Houston Academy	18-Apr-24	680	37
+IDEA Lake Houston Academy	19-Apr-24	681	55
+IDEA Lake Houston College Preparatory	15-Apr-24	378	11
+IDEA Lake Houston College Preparatory	16-Apr-24	378	13
+IDEA Lake Houston College Preparatory	17-Apr-24	378	8
+IDEA Lake Houston College Preparatory	18-Apr-24	378	10
+IDEA Lake Houston College Preparatory	19-Apr-24	378	32
+IDEA Los Encinos Academy	15-Apr-24	764	48
+IDEA Los Encinos Academy	16-Apr-24	764	20
+IDEA Los Encinos Academy	17-Apr-24	764	12
+IDEA Los Encinos Academy	18-Apr-24	764	28
+IDEA Los Encinos Academy	19-Apr-24	763	31
+IDEA Los Encinos College Preparatory	15-Apr-24	629	22
+IDEA Los Encinos College Preparatory	16-Apr-24	629	6
+IDEA Los Encinos College Preparatory	17-Apr-24	629	16
+IDEA Los Encinos College Preparatory	18-Apr-24	629	25
+IDEA Los Encinos College Preparatory	19-Apr-24	629	33
+IDEA Mays Academy	15-Apr-24	687	34
+IDEA Mays Academy	16-Apr-24	687	14
+IDEA Mays Academy	17-Apr-24	687	23
+IDEA Mays Academy	18-Apr-24	687	31
+IDEA Mays Academy	19-Apr-24	687	65
+IDEA Mays College Preparatory	15-Apr-24	717	46
+IDEA Mays College Preparatory	16-Apr-24	717	58
+IDEA Mays College Preparatory	17-Apr-24	716	46
+IDEA Mays College Preparatory	18-Apr-24	716	53
+IDEA Mays College Preparatory	19-Apr-24	716	75
+IDEA McAllen Academy	15-Apr-24	756	21
+IDEA McAllen Academy	16-Apr-24	756	19
+IDEA McAllen Academy	17-Apr-24	756	30
+IDEA McAllen Academy	18-Apr-24	756	29
+IDEA McAllen Academy	19-Apr-24	756	35
+IDEA McAllen College Preparatory	15-Apr-24	796	46
+IDEA McAllen College Preparatory	16-Apr-24	795	34
+IDEA McAllen College Preparatory	17-Apr-24	795	155
+IDEA McAllen College Preparatory	18-Apr-24	795	40
+IDEA McAllen College Preparatory	19-Apr-24	795	60
+IDEA Mesa Hills Academy	15-Apr-24	710	44
+IDEA Mesa Hills Academy	16-Apr-24	710	19
+IDEA Mesa Hills Academy	17-Apr-24	710	30
+IDEA Mesa Hills Academy	18-Apr-24	710	36
+IDEA Mesa Hills Academy	19-Apr-24	710	59
+IDEA Mesa Hills College Preparatory	15-Apr-24	427	38
+IDEA Mesa Hills College Preparatory	16-Apr-24	427	18
+IDEA Mesa Hills College Preparatory	17-Apr-24	427	11
+IDEA Mesa Hills College Preparatory	18-Apr-24	427	6
+IDEA Mesa Hills College Preparatory	19-Apr-24	427	41
+IDEA Mesquite Hills Academy	15-Apr-24	573	32
+IDEA Mesquite Hills Academy	16-Apr-24	574	22
+IDEA Mesquite Hills Academy	17-Apr-24	574	28
+IDEA Mesquite Hills Academy	18-Apr-24	574	27
+IDEA Mesquite Hills Academy	19-Apr-24	573	49
+IDEA Mesquite Hills College Preparatory	15-Apr-24	286	11
+IDEA Mesquite Hills College Preparatory	16-Apr-24	286	3
+IDEA Mesquite Hills College Preparatory	17-Apr-24	286	12
+IDEA Mesquite Hills College Preparatory	18-Apr-24	286	15
+IDEA Mesquite Hills College Preparatory	19-Apr-24	286	16
+IDEA Mission Academy	15-Apr-24	670	18
+IDEA Mission Academy	16-Apr-24	670	6
+IDEA Mission Academy	17-Apr-24	670	13
+IDEA Mission Academy	18-Apr-24	670	19
+IDEA Mission Academy	19-Apr-24	670	18
+IDEA Mission College Preparatory	15-Apr-24	756	56
+IDEA Mission College Preparatory	16-Apr-24	756	24
+IDEA Mission College Preparatory	17-Apr-24	756	26
+IDEA Mission College Preparatory	18-Apr-24	756	50
+IDEA Mission College Preparatory	19-Apr-24	756	67
+IDEA Monterrey Park Academy	15-Apr-24	586	28
+IDEA Monterrey Park Academy	16-Apr-24	586	19
+IDEA Monterrey Park Academy	17-Apr-24	586	23
+IDEA Monterrey Park Academy	18-Apr-24	586	36
+IDEA Monterrey Park Academy	19-Apr-24	586	27
+IDEA Monterrey Park College Preparatory	15-Apr-24	663	33
+IDEA Monterrey Park College Preparatory	16-Apr-24	663	15
+IDEA Monterrey Park College Preparatory	17-Apr-24	663	16
+IDEA Monterrey Park College Preparatory	18-Apr-24	663	56
+IDEA Monterrey Park College Preparatory	19-Apr-24	663	55
+IDEA Montopolis Academy	15-Apr-24	651	41
+IDEA Montopolis Academy	16-Apr-24	651	36
+IDEA Montopolis Academy	17-Apr-24	649	35
+IDEA Montopolis Academy	18-Apr-24	649	33
+IDEA Montopolis Academy	19-Apr-24	649	51
+IDEA Montopolis College Preparatory	15-Apr-24	721	55
+IDEA Montopolis College Preparatory	16-Apr-24	721	42
+IDEA Montopolis College Preparatory	17-Apr-24	721	39
+IDEA Montopolis College Preparatory	18-Apr-24	721	44
+IDEA Montopolis College Preparatory	19-Apr-24	721	134
+IDEA Najim Academy	15-Apr-24	588	41
+IDEA Najim Academy	16-Apr-24	588	34
+IDEA Najim Academy	17-Apr-24	589	27
+IDEA Najim Academy	18-Apr-24	589	22
+IDEA Najim Academy	19-Apr-24	589	40
+IDEA Najim College Preparatory	15-Apr-24	439	45
+IDEA Najim College Preparatory	16-Apr-24	439	29
+IDEA Najim College Preparatory	17-Apr-24	439	32
+IDEA Najim College Preparatory	18-Apr-24	438	38
+IDEA Najim College Preparatory	19-Apr-24	436	68
+IDEA North Mission Academy	15-Apr-24	800	49
+IDEA North Mission Academy	16-Apr-24	800	31
+IDEA North Mission Academy	17-Apr-24	800	33
+IDEA North Mission Academy	18-Apr-24	800	24
+IDEA North Mission Academy	19-Apr-24	800	54
+IDEA North Mission College Preparatory	15-Apr-24	718	51
+IDEA North Mission College Preparatory	16-Apr-24	718	32
+IDEA North Mission College Preparatory	17-Apr-24	718	132
+IDEA North Mission College Preparatory	18-Apr-24	718	35
+IDEA North Mission College Preparatory	19-Apr-24	717	81
+IDEA Owassa Academy	15-Apr-24	694	51
+IDEA Owassa Academy	16-Apr-24	694	32
+IDEA Owassa Academy	17-Apr-24	694	20
+IDEA Owassa Academy	18-Apr-24	694	32
+IDEA Owassa Academy	19-Apr-24	694	79
+IDEA Owassa College Preparatory	15-Apr-24	607	60
+IDEA Owassa College Preparatory	16-Apr-24	607	27
+IDEA Owassa College Preparatory	17-Apr-24	607	19
+IDEA Owassa College Preparatory	18-Apr-24	607	26
+IDEA Owassa College Preparatory	19-Apr-24	607	60
+IDEA Palmview Academy	15-Apr-24	671	56
+IDEA Palmview Academy	16-Apr-24	671	37
+IDEA Palmview Academy	17-Apr-24	671	22
+IDEA Palmview Academy	18-Apr-24	671	44
+IDEA Palmview Academy	19-Apr-24	671	48
+IDEA Palmview College Preparatory	15-Apr-24	311	18
+IDEA Palmview College Preparatory	16-Apr-24	311	13
+IDEA Palmview College Preparatory	17-Apr-24	311	4
+IDEA Palmview College Preparatory	18-Apr-24	311	24
+IDEA Palmview College Preparatory	19-Apr-24	311	31
+IDEA Parmer Park Academy	15-Apr-24	633	41
+IDEA Parmer Park Academy	16-Apr-24	633	33
+IDEA Parmer Park Academy	17-Apr-24	633	22
+IDEA Parmer Park Academy	18-Apr-24	633	36
+IDEA Parmer Park Academy	19-Apr-24	633	62
+IDEA Parmer Park College Preparatory	15-Apr-24	545	56
+IDEA Parmer Park College Preparatory	16-Apr-24	545	41
+IDEA Parmer Park College Preparatory	17-Apr-24	545	48
+IDEA Parmer Park College Preparatory	18-Apr-24	545	44
+IDEA Parmer Park College Preparatory	19-Apr-24	545	50
+IDEA Pflugerville Academy	15-Apr-24	640	47
+IDEA Pflugerville Academy	16-Apr-24	640	17
+IDEA Pflugerville Academy	17-Apr-24	640	34
+IDEA Pflugerville Academy	18-Apr-24	640	35
+IDEA Pflugerville Academy	19-Apr-24	640	50
+IDEA Pflugerville College Preparatory	15-Apr-24	573	28
+IDEA Pflugerville College Preparatory	16-Apr-24	573	16
+IDEA Pflugerville College Preparatory	17-Apr-24	573	26
+IDEA Pflugerville College Preparatory	18-Apr-24	573	20
+IDEA Pflugerville College Preparatory	19-Apr-24	573	53
+IDEA Pharr Academy	15-Apr-24	754	23
+IDEA Pharr Academy	16-Apr-24	754	16
+IDEA Pharr Academy	17-Apr-24	754	22
+IDEA Pharr Academy	18-Apr-24	754	20
+IDEA Pharr Academy	19-Apr-24	754	31
+IDEA Pharr College Preparatory	15-Apr-24	860	49
+IDEA Pharr College Preparatory	16-Apr-24	860	48
+IDEA Pharr College Preparatory	17-Apr-24	860	43
+IDEA Pharr College Preparatory	18-Apr-24	860	61
+IDEA Pharr College Preparatory	19-Apr-24	860	82
+IDEA Quest Academy	15-Apr-24	673	23
+IDEA Quest Academy	16-Apr-24	673	32
+IDEA Quest Academy	17-Apr-24	672	34
+IDEA Quest Academy	18-Apr-24	672	18
+IDEA Quest Academy	19-Apr-24	672	45
+IDEA Quest College Preparatory	15-Apr-24	656	27
+IDEA Quest College Preparatory	16-Apr-24	656	13
+IDEA Quest College Preparatory	17-Apr-24	656	60
+IDEA Quest College Preparatory	18-Apr-24	656	30
+IDEA Quest College Preparatory	19-Apr-24	656	35
+IDEA Rio Grande City Academy	15-Apr-24	732	14
+IDEA Rio Grande City Academy	16-Apr-24	732	9
+IDEA Rio Grande City Academy	17-Apr-24	732	22
+IDEA Rio Grande City Academy	18-Apr-24	732	26
+IDEA Rio Grande City Academy	19-Apr-24	732	26
+IDEA Rio Grande City College Preparatory	15-Apr-24	648	41
+IDEA Rio Grande City College Preparatory	16-Apr-24	648	12
+IDEA Rio Grande City College Preparatory	17-Apr-24	648	24
+IDEA Rio Grande City College Preparatory	18-Apr-24	648	13
+IDEA Rio Grande City College Preparatory	19-Apr-24	647	25
+IDEA Rio Vista Academy	15-Apr-24	715	50
+IDEA Rio Vista Academy	16-Apr-24	715	27
+IDEA Rio Vista Academy	17-Apr-24	715	50
+IDEA Rio Vista Academy	18-Apr-24	715	55
+IDEA Rio Vista Academy	19-Apr-24	715	64
+IDEA Rio Vista College Preparatory	15-Apr-24	495	42
+IDEA Rio Vista College Preparatory	16-Apr-24	495	15
+IDEA Rio Vista College Preparatory	17-Apr-24	495	33
+IDEA Rio Vista College Preparatory	18-Apr-24	496	27
+IDEA Rio Vista College Preparatory	19-Apr-24	496	55
+IDEA Rise Academy	15-Apr-24	654	34
+IDEA Rise Academy	16-Apr-24	653	42
+IDEA Rise Academy	17-Apr-24	653	30
+IDEA Rise Academy	18-Apr-24	653	31
+IDEA Rise Academy	19-Apr-24	653	36
+IDEA Rise College Preparatory	15-Apr-24	508	37
+IDEA Rise College Preparatory	16-Apr-24	508	22
+IDEA Rise College Preparatory	17-Apr-24	507	18
+IDEA Rise College Preparatory	18-Apr-24	507	25
+IDEA Rise College Preparatory	19-Apr-24	504	37
+IDEA Riverview Academy	15-Apr-24	731	23
+IDEA Riverview Academy	16-Apr-24	731	11
+IDEA Riverview Academy	17-Apr-24	731	21
+IDEA Riverview Academy	18-Apr-24	731	18
+IDEA Riverview Academy	19-Apr-24	731	22
+IDEA Riverview College Preparatory	15-Apr-24	789	36
+IDEA Riverview College Preparatory	16-Apr-24	789	22
+IDEA Riverview College Preparatory	17-Apr-24	789	22
+IDEA Riverview College Preparatory	18-Apr-24	789	19
+IDEA Riverview College Preparatory	19-Apr-24	789	77
+IDEA Robindale Academy	15-Apr-24	689	28
+IDEA Robindale Academy	16-Apr-24	689	26
+IDEA Robindale Academy	17-Apr-24	689	20
+IDEA Robindale Academy	18-Apr-24	689	25
+IDEA Robindale Academy	19-Apr-24	689	43
+IDEA Robindale College Preparatory	15-Apr-24	565	31
+IDEA Robindale College Preparatory	16-Apr-24	565	20
+IDEA Robindale College Preparatory	17-Apr-24	565	6
+IDEA Robindale College Preparatory	18-Apr-24	565	38
+IDEA Robindale College Preparatory	19-Apr-24	565	38
+IDEA Round Rock Tech Academy	15-Apr-24	698	34
+IDEA Round Rock Tech Academy	16-Apr-24	698	30
+IDEA Round Rock Tech Academy	17-Apr-24	698	17
+IDEA Round Rock Tech Academy	18-Apr-24	698	26
+IDEA Round Rock Tech Academy	19-Apr-24	698	41
+IDEA Round Rock Tech College Preparatory	15-Apr-24	427	19
+IDEA Round Rock Tech College Preparatory	16-Apr-24	426	26
+IDEA Round Rock Tech College Preparatory	17-Apr-24	426	14
+IDEA Round Rock Tech College Preparatory	18-Apr-24	426	12
+IDEA Round Rock Tech College Preparatory	19-Apr-24	426	29
+IDEA Rundberg Academy	15-Apr-24	655	26
+IDEA Rundberg Academy	16-Apr-24	655	17
+IDEA Rundberg Academy	17-Apr-24	655	23
+IDEA Rundberg Academy	18-Apr-24	655	22
+IDEA Rundberg Academy	19-Apr-24	655	51
+IDEA Rundberg College Preparatory	15-Apr-24	732	42
+IDEA Rundberg College Preparatory	16-Apr-24	732	20
+IDEA Rundberg College Preparatory	17-Apr-24	732	35
+IDEA Rundberg College Preparatory	18-Apr-24	732	34
+IDEA Rundberg College Preparatory	19-Apr-24	732	74
+IDEA San Benito Academy	15-Apr-24	689	31
+IDEA San Benito Academy	16-Apr-24	689	24
+IDEA San Benito Academy	17-Apr-24	689	18
+IDEA San Benito Academy	18-Apr-24	689	31
+IDEA San Benito Academy	19-Apr-24	689	44
+IDEA San Benito College Preparatory	15-Apr-24	766	30
+IDEA San Benito College Preparatory	16-Apr-24	766	32
+IDEA San Benito College Preparatory	17-Apr-24	766	31
+IDEA San Benito College Preparatory	18-Apr-24	766	31
+IDEA San Benito College Preparatory	19-Apr-24	766	110
+IDEA San Juan Academy	15-Apr-24	705	43
+IDEA San Juan Academy	16-Apr-24	705	23
+IDEA San Juan Academy	17-Apr-24	705	34
+IDEA San Juan Academy	18-Apr-24	705	37
+IDEA San Juan Academy	19-Apr-24	704	66
+IDEA San Juan College Preparatory	15-Apr-24	729	69
+IDEA San Juan College Preparatory	16-Apr-24	729	48
+IDEA San Juan College Preparatory	17-Apr-24	729	46
+IDEA San Juan College Preparatory	18-Apr-24	729	167
+IDEA San Juan College Preparatory	19-Apr-24	729	72
+IDEA South Flores Academy	15-Apr-24	719	51
+IDEA South Flores Academy	16-Apr-24	717	38
+IDEA South Flores Academy	17-Apr-24	717	18
+IDEA South Flores Academy	18-Apr-24	716	19
+IDEA South Flores Academy	19-Apr-24	716	32
+IDEA South Flores College Preparatory	15-Apr-24	724	51
+IDEA South Flores College Preparatory	16-Apr-24	722	28
+IDEA South Flores College Preparatory	17-Apr-24	722	20
+IDEA South Flores College Preparatory	18-Apr-24	722	21
+IDEA South Flores College Preparatory	19-Apr-24	721	57
+IDEA Southeast Academy	15-Apr-24	598	28
+IDEA Southeast Academy	16-Apr-24	598	34
+IDEA Southeast Academy	17-Apr-24	598	26
+IDEA Southeast Academy	18-Apr-24	598	40
+IDEA Southeast Academy	19-Apr-24	598	56
+IDEA Southeast College Preparatory	15-Apr-24	347	19
+IDEA Southeast College Preparatory	16-Apr-24	347	15
+IDEA Southeast College Preparatory	17-Apr-24	347	6
+IDEA Southeast College Preparatory	18-Apr-24	347	20
+IDEA Southeast College Preparatory	19-Apr-24	347	22
+IDEA Spears Academy	15-Apr-24	679	23
+IDEA Spears Academy	16-Apr-24	679	31
+IDEA Spears Academy	17-Apr-24	678	36
+IDEA Spears Academy	18-Apr-24	678	35
+IDEA Spears Academy	19-Apr-24	677	61
+IDEA Spears College Preparatory	15-Apr-24	498	27
+IDEA Spears College Preparatory	16-Apr-24	498	12
+IDEA Spears College Preparatory	17-Apr-24	498	26
+IDEA Spears College Preparatory	18-Apr-24	498	14
+IDEA Spears College Preparatory	19-Apr-24	498	40
+IDEA Sports Park Academy	15-Apr-24	583	46
+IDEA Sports Park Academy	16-Apr-24	583	39
+IDEA Sports Park Academy	17-Apr-24	583	11
+IDEA Sports Park Academy	18-Apr-24	583	37
+IDEA Sports Park Academy	19-Apr-24	583	36
+IDEA Sports Park College Preparatory	15-Apr-24	410	38
+IDEA Sports Park College Preparatory	16-Apr-24	410	31
+IDEA Sports Park College Preparatory	17-Apr-24	410	19
+IDEA Sports Park College Preparatory	18-Apr-24	410	14
+IDEA Sports Park College Preparatory	19-Apr-24	410	47
+IDEA Toros College Preparatory	15-Apr-24	267	15
+IDEA Toros College Preparatory	16-Apr-24	267	5
+IDEA Toros College Preparatory	17-Apr-24	267	55
+IDEA Toros College Preparatory	18-Apr-24	267	18
+IDEA Toros College Preparatory	19-Apr-24	267	22
+IDEA Tres Lagos Academy	15-Apr-24	684	14
+IDEA Tres Lagos Academy	16-Apr-24	684	15
+IDEA Tres Lagos Academy	17-Apr-24	684	19
+IDEA Tres Lagos Academy	18-Apr-24	684	34
+IDEA Tres Lagos Academy	19-Apr-24	684	40
+IDEA Tres Lagos College Preparatory	15-Apr-24	628	28
+IDEA Tres Lagos College Preparatory	16-Apr-24	627	26
+IDEA Tres Lagos College Preparatory	17-Apr-24	627	34
+IDEA Tres Lagos College Preparatory	18-Apr-24	626	64
+IDEA Tres Lagos College Preparatory	19-Apr-24	626	66
+IDEA Walzem Academy	15-Apr-24	626	27
+IDEA Walzem Academy	16-Apr-24	628	17
+IDEA Walzem Academy	17-Apr-24	630	30
+IDEA Walzem Academy	18-Apr-24	630	38
+IDEA Walzem Academy	19-Apr-24	630	54
+IDEA Walzem College Preparatory	15-Apr-24	726	57
+IDEA Walzem College Preparatory	16-Apr-24	725	27
+IDEA Walzem College Preparatory	17-Apr-24	725	28
+IDEA Walzem College Preparatory	18-Apr-24	724	22
+IDEA Walzem College Preparatory	19-Apr-24	724	74
+IDEA Weslaco Academy	15-Apr-24	679	49
+IDEA Weslaco Academy	16-Apr-24	678	30
+IDEA Weslaco Academy	17-Apr-24	678	51
+IDEA Weslaco Academy	18-Apr-24	678	40
+IDEA Weslaco Academy	19-Apr-24	678	46
+IDEA Weslaco College Preparatory	15-Apr-24	739	63
+IDEA Weslaco College Preparatory	16-Apr-24	739	38
+IDEA Weslaco College Preparatory	17-Apr-24	739	38
+IDEA Weslaco College Preparatory	18-Apr-24	739	42
+IDEA Weslaco College Preparatory	19-Apr-24	738	60
+IDEA Weslaco Pike Academy	15-Apr-24	724	16
+IDEA Weslaco Pike Academy	16-Apr-24	724	25
+IDEA Weslaco Pike Academy	17-Apr-24	724	41
+IDEA Weslaco Pike Academy	18-Apr-24	724	32
+IDEA Weslaco Pike Academy	19-Apr-24	724	46
+IDEA Weslaco Pike College Preparatory	15-Apr-24	724	21
+IDEA Weslaco Pike College Preparatory	16-Apr-24	724	21
+IDEA Weslaco Pike College Preparatory	17-Apr-24	724	48
+IDEA Weslaco Pike College Preparatory	18-Apr-24	724	24
+IDEA Weslaco Pike College Preparatory	19-Apr-24	724	52
+IDEA Yukon Academy	15-Apr-24	710	35
+IDEA Yukon Academy	16-Apr-24	710	26
+IDEA Yukon Academy	17-Apr-24	710	19
+IDEA Yukon Academy	18-Apr-24	711	31
+IDEA Yukon Academy	19-Apr-24	710	26
+IDEA Yukon College Preparatory	15-Apr-24	356	22
+IDEA Yukon College Preparatory	16-Apr-24	356	20
+IDEA Yukon College Preparatory	17-Apr-24	356	16
+IDEA Yukon College Preparatory	18-Apr-24	356	13
+IDEA Yukon College Preparatory	19-Apr-24	356	26

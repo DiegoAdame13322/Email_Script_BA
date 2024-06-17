@@ -1,0 +1,31 @@
+SCHOOLNAME	ATTDATE	MEMBERSHIP	ABSENCES
+IDEA Bridge Academy	15-Apr-24	529	42
+IDEA Bridge Academy	16-Apr-24	527	35
+IDEA Bridge Academy	17-Apr-24	527	40
+IDEA Bridge Academy	18-Apr-24	527	30
+IDEA Bridge Academy	19-Apr-24	526	40
+IDEA Bridge College Preparatory	15-Apr-24	481	74
+IDEA Bridge College Preparatory	16-Apr-24	481	57
+IDEA Bridge College Preparatory	17-Apr-24	481	52
+IDEA Bridge College Preparatory	18-Apr-24	480	65
+IDEA Bridge College Preparatory	19-Apr-24	480	84
+IDEA Innovation Academy	15-Apr-24	511	59
+IDEA Innovation Academy	16-Apr-24	511	62
+IDEA Innovation Academy	17-Apr-24	509	40
+IDEA Innovation Academy	18-Apr-24	509	73
+IDEA Innovation Academy	19-Apr-24	509	68
+IDEA Innovation College Preparatory	15-Apr-24	340	39
+IDEA Innovation College Preparatory	16-Apr-24	340	18
+IDEA Innovation College Preparatory	17-Apr-24	340	17
+IDEA Innovation College Preparatory	18-Apr-24	340	22
+IDEA Innovation College Preparatory	19-Apr-24	340	14
+IDEA University Prep Academy	15-Apr-24	353	57
+IDEA University Prep Academy	16-Apr-24	353	52
+IDEA University Prep Academy	17-Apr-24	353	40
+IDEA University Prep Academy	18-Apr-24	353	37
+IDEA University Prep Academy	19-Apr-24	353	38
+IDEA University Prep College Preparatory	15-Apr-24	246	30
+IDEA University Prep College Preparatory	16-Apr-24	246	31
+IDEA University Prep College Preparatory	17-Apr-24	245	24
+IDEA University Prep College Preparatory	18-Apr-24	245	35
+IDEA University Prep College Preparatory	19-Apr-24	245	41
