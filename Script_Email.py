@@ -1,9 +1,7 @@
 import csv
 from datetime import datetime
 
-# Define paths to data files
-sales_data_file = 'Files/SalesData.csv'
-contacts_file = 'Files/Contacts.csv'
+# Define paths to ADA_CNP data files
 ada_cnp_files = [
     'Files/ADA_CNP.txt',
     'Files/ADA_CNP_FL.txt',
@@ -12,104 +10,90 @@ ada_cnp_files = [
     'Files/ADA_CNP_OH.txt'
 ]
 
+# Function to load ADA_CNP data from multiple files into one list
+def load_ada_cnp_files(files):
+    all_data = []
+    for file_path in files:
+        with open(file_path, mode='r', encoding='utf-8-sig') as file:
+            reader = csv.DictReader(file, delimiter='\t')
+            for row in reader:
+                # Standardize date format
+                row['ATTDATE'] = standardize_date(row['ATTDATE'])
+                # Convert membership and absences to integers
+                row['MEMBERSHIP'] = int(row['MEMBERSHIP'])
+                row['ABSENCES'] = int(row['ABSENCES'])
+                # Calculate attendance
+                row['ATTENDANCE'] = row['MEMBERSHIP'] - row['ABSENCES']
+                all_data.append(row)
+    return all_data
 
-# Load CSV data into a list of dictionaries with appropriate delimiter for ADA_CNP files
-def load_csv(file_path, delimiter=','):
+# Function to standardize date format
+def standardize_date(date_str):
+    formats_to_try = ['%d-%b-%y', '%m/%d/%Y']
+    for format_str in formats_to_try:
+        try:
+            return datetime.strptime(date_str, format_str).strftime('%m/%d/%Y')
+        except ValueError:
+            continue
+    return date_str  # Return original if no format matches
+
+# Load all ADA_CNP data into one list
+ada_cnp_data = load_ada_cnp_files(ada_cnp_files)
+#print(ada_cnp_data)
+
+# Define the path to the SalesData.csv file
+sales_data_file = 'Files/SalesData.csv'
+def load_sales_data(file_path):
     with open(file_path, mode='r', encoding='utf-8-sig') as file:
-        reader = csv.DictReader(file, delimiter=delimiter)
-        return list(reader)
+        reader = csv.DictReader(file)
+        data = list(reader)
+        for entry in data:
+            # Combine 'Campus' and 'Site' into 'School Name'
+            entry['School Name'] = f"{entry['Campus']} {entry['Site']}"
+            # Format 'SaleDate' to have leading zeros for months
+            month, day, year = entry['SaleDate'].split('/')
+            entry['SaleDate'] = f"{month.zfill(2)}/{day}/{year}"
+    return data
 
+# Load SalesData.csv into a list of dictionaries
+sales_data = load_sales_data(sales_data_file)
 
-# Standardize date format to 'YYYY-MM-DD'
-def standardize_date(date_str, current_format):
-    try:
-        return datetime.strptime(date_str, current_format).strftime('%Y-%m-%d')
-    except ValueError:
-        return date_str  # Return as is if parsing fails
-
-
-# Aggregate ADA_CNP data and calculate attendance
-def aggregate_ada_cnp(data):
-    aggregated_data = {}
-    for entry in data:
-        school_name_site = entry['SCHOOLNAME']  # This should contain both school name and site from the TXT file
-        att_date = standardize_date(entry['ATTDATE'], '%d-%b-%y')  # Assuming 'DD-MMM-YY' format
-        membership = int(entry['MEMBERSHIP'])
-        absences = int(entry['ABSENCES'])
-        attendance = membership - absences
-
-        # Splitting school_name and site if they are combined
-        if ' ' in school_name_site:
-            parts = school_name_site.split()
-            school_name = ' '.join(parts[:-1])
-            site = parts[-1]
-        else:
-            school_name = school_name_site
-            site = None  # Default to None if site is not provided in TXT file
-
-        # Key is a tuple of school name, site, and attendance date
-        key = (school_name, site, att_date)
-        if key not in aggregated_data:
-            aggregated_data[key] = {'Membership': 0, 'Absences': 0, 'Attendance': 0}
-
-        aggregated_data[key]['Membership'] += membership
-        aggregated_data[key]['Absences'] += absences
-        aggregated_data[key]['Attendance'] += attendance
-
-    return aggregated_data
-
-
-# Load the sales and contact data (assumed to be comma-separated)
-sales_data = load_csv(sales_data_file)
-contacts_data = load_csv(contacts_file)
-
-# Load the ADA_CNP data (tab-separated)
-ada_cnp_data = [load_csv(file, delimiter='\t') for file in ada_cnp_files]
-
-# Process ADA_CNP data for each file
-ada_cnp_aggregated = {}
-for ada_cnp_file_data in ada_cnp_data:
-    aggregated_data = aggregate_ada_cnp(ada_cnp_file_data)
-    ada_cnp_aggregated.update(aggregated_data)
-print(ada_cnp_aggregated)
-# Identify non-compliant records
+# List to store non-compliant records
 non_compliant_records = []
-for entry in sales_data:
-    school_name = entry['Campus']
-    site = entry['Site']
-    date = standardize_date(entry['SaleDate'], '%m/%d/%Y')
-    meal_type = entry['MealType']
-    meals_claimed = int(entry['FreeCount'])
 
-    # Create key tuple using school_name, site, and date
-    key = (school_name, site, date)
-    print(key)
-    # Check if key exists in ada_cnp_aggregated
-    if key in ada_cnp_aggregated:
-        attendance = ada_cnp_aggregated[key]['Attendance']
-        if meals_claimed > attendance:
-            non_compliant_records.append({
-                'School Name': school_name,
-                'Site': site,
-                'Date': date,
-                'Meal Type': meal_type,
-                'Meals Claimed': meals_claimed,
-                'Attendance': attendance,
-                'Meals Over': meals_claimed - attendance
-            })
-    #else:
-    #    print(f"No matching ADA_CNP data for key: {key}")
+# Iterate through SalesData and compare with ada_cnp_data
+for entry in sales_data:
+    school_name = entry['School Name']
+    sale_date = entry['SaleDate']
+    meal_type = entry['MealType']
+    free_count = int(entry['FreeCount'])
+
+    # Find matching ADA_CNP entry based on school name and sale date
+    matched_entries = [data for data in ada_cnp_data if data['SCHOOLNAME'] == school_name and data['ATTDATE'] == sale_date]
+
+    if matched_entries:
+        for matched_entry in matched_entries:
+            attendance = matched_entry['ATTENDANCE']
+            if free_count > attendance:
+                meals_over = free_count - attendance
+                non_compliant_records.append({
+                    'School Name': school_name,
+                    'Sale Date': sale_date,
+                    'Meal Type': meal_type,
+                    'Free Count': free_count,
+                    'Attendance': attendance,
+                    'Meals Over': meals_over
+                })
+    # else:
+    #     print(f"No matching ADA_CNP data for School Name: {school_name}, Sale Date: {sale_date}")
 
 # Print out non-compliant records
 print("\nNon-Compliant Records:")
 for record in non_compliant_records:
-    school_name = record['School Name']
-    site = record['Site']
-    print(f"School: {school_name}")
-    print(f"Site: {site}")
+    print(f"School Name: {record['School Name']}")
+    print(f"Sale Date: {record['Sale Date']}")
     print(f"Meal Type: {record['Meal Type']}")
-    print(f"Claim Date: {record['Date']}")
-    print(f"Meals Claimed: {record['Meals Claimed']}")
+    print(f"Total Count: {record['Free Count']}")
     print(f"Attendance: {record['Attendance']}")
     print(f"Meals Over: {record['Meals Over']}")
     print("")
